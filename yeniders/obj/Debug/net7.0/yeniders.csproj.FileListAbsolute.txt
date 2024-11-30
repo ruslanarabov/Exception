@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/yeniders/bin/Debug/net7.0/yeniders
+/Users/macbook/Desktop/yeniders/bin/Debug/net7.0/yeniders.deps.json
+/Users/macbook/Desktop/yeniders/bin/Debug/net7.0/yeniders.runtimeconfig.json
+/Users/macbook/Desktop/yeniders/bin/Debug/net7.0/yeniders.dll
+/Users/macbook/Desktop/yeniders/bin/Debug/net7.0/yeniders.pdb
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.AssemblyInfo.cs
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.dll
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/refint/yeniders.dll
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.pdb
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/yeniders.genruntimeconfig.cache
+/Users/macbook/Desktop/yeniders/obj/Debug/net7.0/ref/yeniders.dll
